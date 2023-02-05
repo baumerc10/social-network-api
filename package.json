@@ -4,7 +4,7 @@
   "description": "An API for a social network using a NoSQL database.",
   "main": "server.js",
   "scripts": {
-    "test": "jest",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/baumerc10/social-network-api/issues"
   },
-  "homepage": "https://github.com/baumerc10/social-network-api#readme"
+  "homepage": "https://github.com/baumerc10/social-network-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
 }
