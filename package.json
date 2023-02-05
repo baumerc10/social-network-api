@@ -1,0 +1,20 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "An API for a social network using a NoSQL database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baumerc10/social-network-api.git"
+  },
+  "author": "baumerc10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baumerc10/social-network-api/issues"
+  },
+  "homepage": "https://github.com/baumerc10/social-network-api#readme"
+}
