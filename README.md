@@ -21,7 +21,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Installation
 Use 'npm init' to initialize the package.json and use 'npm install' to install all necessary packages.
-Use 'npm start' to start the server in localhost (Insomnia).
+Use 'node server' to start the server in localhost (Insomnia).
 
 ## Contributing
 Cody Kirschbaum
