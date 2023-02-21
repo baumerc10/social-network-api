@@ -19,6 +19,7 @@
   "homepage": "https://github.com/baumerc10/social-network-api#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.0.13"
+    "mongoose": "^6.0.13",
+    "moment": "^2.29.4"
   }
 }
